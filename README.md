@@ -1,2 +1,3 @@
-# QinliliUniversalLicense
-琴梨梨通用许可证
+# QStyleUniversalLicense
+琴梨风通用许可证
+一种基于琴梨梨通用许可的修改
