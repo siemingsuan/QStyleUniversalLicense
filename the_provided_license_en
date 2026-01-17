@@ -1,30 +1,46 @@
-# Qinlili Universal License
+QStyle General License
+Current Version: v2.1 (AD 2026/01/17)
 
-Version 2.0（16/01/2026）
+0x0 Grant
+0.1 Hereby, under and subject to the other terms of this License, a worldwide, royalty-free, non-exclusive license is granted to any individual or organization (the "Licensee," "You") obtaining "any content to which this License applies (hereinafter referred to as 'the Content')" without limitation the rights to deal with the Content, including without limitation the rights to use, copy, modify, merge, publish, distribute, sell copies, and/or grant sublicenses; adapt, distribute for sale, perform, display, upload, broadcast, and translate; extract, disseminate, utilize, create derivative works, use as a database; other rights stipulated in this agreement; and to sublicense the aforementioned rights, as well as any similar, identical, or equivalent rights recognized by the laws, regulations, or treaties of any country or region worldwide. However, rights such as portrait rights, privacy rights, trademark rights, and other rights to which this License does not apply are excluded. This grant is effective only if the other provisions of this License are complied with; otherwise, the grant is void.
 
-## 1. Applicable range of this license
+0x1 Scope of Application of this License
+1.1 All content created and made public by the "person who declares that their creation is subject to this License and specifies this License (hereinafter referred to as the 'Designating Party')" in their capacity as confirmed at the time of such declaration and any other capacities designated by them (for such capacities, hereinafter referred to as the "Designated Capacities"), including but not limited to forms such as images, text, videos, audio, code, and software, but excluding content within the work whose copyright does not belong to the Designating Party, are licensed to any individual or organization under this License.
+1.2 The Designating Party may update the version of the Q-Style General License they adopt from time to time. You agree that if no specific version is designated, the version effective for a piece of Content shall be the latest version at the time of its first public release (for code projects, the time of repository creation; for graphic, textual, or video works, the time of first publication, regardless of re-uploading or modifications not declared as entirely new content) or any subsequent revised version, with the specific applicable version to be designated by You.
+1.3 If the Content is also licensed under other licenses, You may choose to comply with either one of the two or more applicable licenses.
+1.4 If the Content includes contributions from other individuals or organizations, in the absence of a specific statement, this License applies only to the portion created by the Designating Party.
+1.5 Publicly released content refers to content creatively published and attributed (including content published using the creative functions of public internet platforms and attributed), excluding content in one-to-one private conversations or content published with limited accessibility intended solely for one-to-one private communication (excluding content fully public despite the intent being private communication). It does not include personal information parts such as avatars or nicknames but may include original profile descriptions.
 
-1.1 All content released on any public platforms (does not contain content in private chat) from me as `Qinlili` , including but not limited to articles, videos, audios, source code and compiled software, excluding all referenced content which is not created by me, are licensed under this license to any person or organizatin.  
-1.2 This license may be updated. If no version is specified, the latest version at the time of first release of content or any later version can be used. For open source projects this is the time of creation of repository. For articles and media, this is the time of first publish no matter that publish is deleted.  
-1.3 Some content comes with another license, you can select either as you want.  
-1.4 For content with contribution of others, only Qinlili created part is applicable for this license if no additional license provided.  
-1.5 "Publication" refers to content posted and attributed using the creative functions of public platforms. It does not include personal profile information such as avatars.  
+0x2 Required Manner of Use
+2.1 You may use the Content in any manner described in Article 0.1, with or without attribution to the Designating Party, or with Your own attribution, without the need for application.
+2.2 Permission is granted for the use of trademarks, including for promotional purposes, provided they are used "as is" and the trademark ownership is indicated.
+2.3 The rights granted are not exclusive to You. Therefore, in exercising the rights granted under Article 0.1, You must not act in an exclusive manner. You are obligated to prevent such a situation from occurring.
+2.4 It is prohibited to attribute any part of the Content that was not created by the Designating Party to the Designating Party.
+2.5 For Content attributed to the Designating Party, it must be provided "as is." The Designating Party bears no responsibility for any direct or indirect consequences arising from the use of the attributed work.
+2.6 The Content shall not be used for purposes that are illegal in Your and/or the Designating Party's jurisdiction/place of residence. The Designating Party bears no responsibility for any direct or indirect consequences arising from the use of the work in such cases and reserves the right to seek recourse against You.
+2.7 In all other circumstances, the Designating Party shall not be liable for any claims, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Content and the use or other dealings in the Content.
 
-## 2. Allowed usage
+0x3 Consideration for Using the Content
+3.1 You agree to grant the Designating Party a non-exclusive, non-transferable, irrevocable right to use "the work for which You used the Content" and "the attribution You used when creating said work" for the Designating Party's promotional purposes.
+3.2 If You use the "Content" to create any reproducible digital work for which access is restricted, You agree, when feasible and upon request by the Designating Party, to provide the Designating Party with one non-redistributable copy of or access to a copy of the "standard" end-user product, for example, by waiving the highest tier of licensing fees for the Designating Party.
+3.3 If You are unable or refuse to provide the copy or access mentioned in Article 3.2, You agree, under such circumstances, to publicly, completely, permanently, irrevocably, and unconditionally waive any claim or right to initiate legal action against the Designating Party for any personal-use-only, non-publicly-released reverse engineering of "the work for which You used the Content," whether currently known or unknown.
+3.4 Articles 3.1, 3.2, and 3.3 apply to all uses of the Content. For redistribution and sublicensing, if no modification or adaptation is made and the Content is redistributed "as is," the provisions of Articles 3.1, 3.2, and 3.3 still apply, and there is an obligation to inform subsequent recipients or sublicensees of these provisions.
 
-2.1 You can use the content in any way and anywhere, providing attribution or not or even publish under your name, without applying or paying any fees.  
-2.2 The content is provided "AS IS". Qinlili shall not be held liable for any direct or indirect consequences or damages arising from the use of the work.  
+0x4 Special Circumstances of the Agreement
+4.1 Where permitted by the applicable jurisdiction, the Designating Party may declare that content not created by them, but for which they possess the unconditional right to sublicense all rights mentioned in Article 0.1, shall also be considered content subject to this License. In such a case, relevant provisions of this License shall automatically be amended accordingly.
+4.2 Where permitted by the applicable jurisdiction, the Designating Party may declare that the term "person who declares that their creation is subject to this License and specifies this License" may also refer to any organization. In such a case, relevant provisions of this License shall automatically be amended accordingly.
+4.3 Articles 4.1 and 4.2 are effective only if declared before or at the time of the public release of the "Content." Both the Designating Party and You agree that declarations made after the release of the "Content" are ineffective for that "Content," and thus Articles 4.1 and 4.2 shall not apply. For situations falling under Articles 4.1 and 4.2 but not meeting their effectiveness conditions, this License is void.
 
-## 3. Forbidden usage
+0x5 Disputes and Other Legal Matters
+5.1 If, according to Article 2 of the United Nations Convention on Contracts for the International Sale of Goods (CISG), You are subject to the Convention, and You and the Designating Party are not in the same jurisdiction, then You agree that the CISG shall apply.
+5.2 Both the Designating Party and You agree that if both parties are deemed to reside in a country/jurisdiction that is a party to and has ratified the Convention on Choice of Court Agreements under Article 4(2) of said Convention, and the Convention on Choice of Court Agreements applies according to its terms, then the Convention on Choice of Court Agreements shall apply.
+5.3 The invalidity of part of this Article shall not render the entire Article invalid.
+a) When this Article is effective, You agree that, with the consent of the Designating Party, disputes shall be submitted to the competent court in the Designating Party's jurisdiction nearest to the Designating Party's domicile for adjudication.
+b) If both the Designating Party and You agree, an alternative court may be designated for dispute resolution when a dispute arises.
+c) If You and the Designating Party cannot reach an agreement, You agree to submit the dispute to a competent court in Queensland, Australia for adjudication.
+5.4 If this Article is not invalidated according to Articles 5.5, 5.6, or 5.7, and Article 5.2 is not triggered, You agree that all determinations of "domicile" and "jurisdiction" shall be made in accordance with the provisions of Article 4(2) of the Convention on Choice of Court Agreements, regardless of whether the parties are in a Contracting State. If the Designating Party/You is a natural person, the order of determination shall be: current legal and actual domicile, current legal domicile, current nationality and citizenship (if only one), current actual domicile.
+5.5 If the dispute resolution provisions of this License are invalid under the law of the governing jurisdiction, the law of that jurisdiction shall govern, but the Designating Party reserves the right to object in another jurisdiction.
+5.6 If the grant of certain rights under this License is invalid in some jurisdictions, and the Licensee (You) has not violated other terms, the Designating Party, to the maximum extent permitted by applicable law, publicly, completely, and without additional conditions waives any related claims.
+5.7 If other provisions of this License are invalid in some jurisdictions, this does not affect the validity of the remaining parts.
+5.8 For the international treaties mentioned in this License, if they become effective for the disputing parties during the dispute process, the dispute shall be reconsidered according to the provisions after they become effective.
 
-3.1 You cannot publish content not created by Qinlili under Qinlili's name.  
-
-## 4. Terms of Use (Consideration)
-
-4.1 You hereby grant to Qinlili a non-exclusive, non-transferable, and irrevocable right to use the works in which you have incorporated my content, or your name/brand, for the purpose of promoting the original content.  
-4.2 If you create any digital work using Qinlili’s content, you agree to provide Qinlili, upon request, with a copy of said work (or access to said work) for personal, unrestricted use. Such copies are for Qinlili’s personal use only and may not be redistributed. Should you refuse to provide such a copy or access, you hereby waive your right to initiate any legal proceedings or actions against Qinli-li regarding copyright claims or reverse engineering related to that specific work.  
-
-## 5. Disputes and Governing Law
-
-5.1 Any disputes arising from this License shall be submitted to the exclusive jurisdiction of the courts of Queensland, Australia.  
-5.2 If any provision of this License is found to be invalid or unenforceable under the laws of the jurisdiction, the remaining provisions shall remain in full force and effect.  
